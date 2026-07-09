@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Sudip
 
-<!--
-**Sudippandore/Sudippandore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student and a fresher passionate about programming and technology. I'm currently learning software development and DevOps while improving my coding skills by building projects and practicing every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C
+- Java
+- SQL
+- Git
+- GitHub
+- Docker (Basics)
+- Linux (Basics)
+
+## Currently Learning
+
+- Kubernetes
+- DevOps
+- Cloud Computing
+
+## What You'll Find Here
+
+- Programming Practice
+- Java Projects
+- SQL Queries
+- DevOps Learning
+- Mini Projects
+
+## Goal
+
+My goal is to learn continuously, build practical projects, and start my career as a Software Developer or DevOps Engineer.
+
+## Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
