@@ -28,14 +28,25 @@ I'm a Computer Science student and a fresher passionate about programming and te
 - DevOps Learning
 - Mini Projects
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudippandore&show_icons=true&theme=default)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sudippandore&theme=default)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudippandore&layout=compact&theme=default)
+
 ## Goal
 
 My goal is to learn continuously, build practical projects, and start my career as a Software Developer or DevOps Engineer.
 
 ## Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/Sudippandore
 
 ---
 
